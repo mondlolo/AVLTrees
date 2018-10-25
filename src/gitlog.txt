@@ -1,0 +1,21 @@
+0: commit d7cef49e68f22e96d2da9e4d70bbafaedf92ad6a
+1: Author: Laptop User <laptop@loanlaptop.cs.uct.ac.za>
+2: Date: Tue Mar 27 02:55:13 2018 +0200
+3:
+4: The utmost final changes
+5:
+6: commit 4a6cf78fed1ba18e862972af5c7bdea31e6922da
+7: Author: Laptop User <laptop@loanlaptop.cs.uct.ac.za>
+8: Date: Tue Mar 20 21:42:19 2018 +0200
+9:
+...
+19: Author: Laptop User <laptop@loanlaptop.cs.uct.ac.za>
+20: Date: Mon Mar 19 11:40:25 2018 +0200
+21:
+22: Small edditions
+23:
+24: commit e3d0f24cea4798cfe73a6a95eb9a1bb7081fce5a
+25: Author: Laptop User <laptop@loanlaptop.cs.uct.ac.za>
+26: Date: Mon Mar 19 08:50:00 2018 +0200
+27:
+28: Stage one has been done in all these java files, The code is well capable of printing all data and also searching through both Data Structures
